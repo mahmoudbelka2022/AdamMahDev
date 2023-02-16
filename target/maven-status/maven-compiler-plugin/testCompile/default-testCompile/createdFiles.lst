@@ -1,0 +1,7 @@
+com/pages/Registration.class
+com/pages/SignupPage.class
+com/utilities/Driver.class
+com/step_definitions/UserSignup.class
+com/runner/CukesRunner.class
+com/utilities/BrowserUtils.class
+com/utilities/ConfigurationReader.class
